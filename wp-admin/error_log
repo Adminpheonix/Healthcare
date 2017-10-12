@@ -1,0 +1,5 @@
+[26-Sep-2017 11:52:42 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[27-Sep-2017 13:22:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/pheonix456/public_html/Healthcare/wp-includes/class-wp-image-editor.php on line 420
+[27-Sep-2017 13:23:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/pheonix456/public_html/Healthcare/wp-includes/class-wp-image-editor.php on line 420
+[28-Sep-2017 05:48:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/pheonix456/public_html/Healthcare/wp-includes/class-wp-image-editor.php on line 420
+[28-Sep-2017 05:48:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/pheonix456/public_html/Healthcare/wp-includes/class-wp-image-editor.php on line 420
